@@ -7,7 +7,7 @@ This project showcases a Power BI dashboard I built using live weather data pull
 - **Tool:** Power BI  
 - **Data Source:** WeatherAPI (free plan)  
 - **Refresh Frequency:** Daily (automated refresh set in Power BI Service)  
-- **Focus Cities:** Atlanta, Dallas, and Chicago  
+- **Focus Cities:** Atlanta, Dallas, and Chicago... 
 - **Forecast Range:** Current conditions + 7-day forecast  
 
 ## 📊 Dashboard Features
